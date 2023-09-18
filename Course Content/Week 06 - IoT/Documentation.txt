@@ -1,0 +1,7 @@
+DOCUMENTATION:
+
+1.Sensor Connectivity with ardunio
+2.read sensor data through code and push on remote ip(broker) using mqtt protocol
+3.code for recieving data in the mqtt broker
+4.run the code on the client side for sending data 
+5.run the code on the recieving side for listening to the client
