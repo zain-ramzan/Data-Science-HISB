@@ -1,0 +1,6 @@
+datasets
+huggingface-hub>=0.12.1
+protobuf<4
+click<8.1
+pydantic~=1.0
+Pillow
